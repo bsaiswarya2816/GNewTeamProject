@@ -8,5 +8,12 @@ public class Tournament {
 	private void horseRiding() {
 		System.out.println("This is Horse Riding");
 	}
+	private void throwBall() {
+		System.out.println("This is ThrowBall");
+	}
+	private void handBall() {
+		System.out.println("This is HandBall");
+	}
+	
 
 }
