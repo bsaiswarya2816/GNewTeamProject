@@ -14,6 +14,23 @@ public class Tournament {
 	private void handBall() {
 		System.out.println("This is HandBall");
 	}
+	private void cricket() {
+		System.out.println("This is HandBall");
+
+	}
+	private void Kabadi() {
+		System.out.println("This is HandBall");
+
+	}
+	
+	private void m1() {
+		// TODO Auto-generated method stub
+
+	}
+	private void m2() {
+		// TODO Auto-generated method stub
+
+	}
 	
 
 }
